@@ -55,6 +55,7 @@
 		24B33DB92A933D470079F80D /* StepperBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B33DB82A933D460079F80D /* StepperBootcamp.swift */; };
 		24B33DBB2A9341430079F80D /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B33DBA2A9341430079F80D /* SliderBootcamp.swift */; };
 		24B33DBD2A93463B0079F80D /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B33DBC2A93463B0079F80D /* TabViewBootcamp.swift */; };
+		24E98EEE2A93DCC30044DF6D /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E98EED2A93DCC30044DF6D /* OnAppearBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -107,6 +108,7 @@
 		24B33DB82A933D460079F80D /* StepperBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepperBootcamp.swift; sourceTree = "<group>"; };
 		24B33DBA2A9341430079F80D /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		24B33DBC2A93463B0079F80D /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
+		24E98EED2A93DCC30044DF6D /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +187,7 @@
 				24B33DBC2A93463B0079F80D /* TabViewBootcamp.swift */,
 				2478D3F52A9381FB007A8FAC /* DarkModeBootcamp.swift */,
 				2478D3F72A938640007A8FAC /* DocumentationBootcamp.swift */,
+				24E98EED2A93DCC30044DF6D /* OnAppearBootcamp.swift */,
 				24AF85262A8CBD1A0070640E /* Assets.xcassets */,
 				24AF85282A8CBD1A0070640E /* Preview Content */,
 			);
@@ -298,6 +301,7 @@
 				24AF85232A8CBD180070640E /* SwiftfulThinkingBootcampApp.swift in Sources */,
 				249BD9E12A91F71300D2EFFF /* ToggleBootcamp.swift in Sources */,
 				240817262A8F6DB200658A3B /* TransitionBootcamp.swift in Sources */,
+				24E98EEE2A93DCC30044DF6D /* OnAppearBootcamp.swift in Sources */,
 				2478D3F82A938640007A8FAC /* DocumentationBootcamp.swift in Sources */,
 				245D65892A8DFA390005650A /* StacksBootcamp.swift in Sources */,
 				2408172A2A8FC62B00658A3B /* PopoverBootcamp.swift in Sources */,
