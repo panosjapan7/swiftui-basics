@@ -56,6 +56,7 @@
 		24B33DBB2A9341430079F80D /* SliderBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B33DBA2A9341430079F80D /* SliderBootcamp.swift */; };
 		24B33DBD2A93463B0079F80D /* TabViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24B33DBC2A93463B0079F80D /* TabViewBootcamp.swift */; };
 		24E98EEE2A93DCC30044DF6D /* OnAppearBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E98EED2A93DCC30044DF6D /* OnAppearBootcamp.swift */; };
+		24E98EF02A93E0B00044DF6D /* IfLetGuardBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24E98EEF2A93E0B00044DF6D /* IfLetGuardBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -109,6 +110,7 @@
 		24B33DBA2A9341430079F80D /* SliderBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderBootcamp.swift; sourceTree = "<group>"; };
 		24B33DBC2A93463B0079F80D /* TabViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabViewBootcamp.swift; sourceTree = "<group>"; };
 		24E98EED2A93DCC30044DF6D /* OnAppearBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnAppearBootcamp.swift; sourceTree = "<group>"; };
+		24E98EEF2A93E0B00044DF6D /* IfLetGuardBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IfLetGuardBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -188,6 +190,7 @@
 				2478D3F52A9381FB007A8FAC /* DarkModeBootcamp.swift */,
 				2478D3F72A938640007A8FAC /* DocumentationBootcamp.swift */,
 				24E98EED2A93DCC30044DF6D /* OnAppearBootcamp.swift */,
+				24E98EEF2A93E0B00044DF6D /* IfLetGuardBootcamp.swift */,
 				24AF85262A8CBD1A0070640E /* Assets.xcassets */,
 				24AF85282A8CBD1A0070640E /* Preview Content */,
 			);
@@ -287,6 +290,7 @@
 				2474FE7D2A8F4BD8007D2886 /* ExtractSubviewsBootcamp.swift in Sources */,
 				24AF853D2A8CFEE50070640E /* FrameBootcamp.swift in Sources */,
 				2474FE7B2A8F4775007D2886 /* ExtractedFunctionsBootcamp.swift in Sources */,
+				24E98EF02A93E0B00044DF6D /* IfLetGuardBootcamp.swift in Sources */,
 				245D658F2A8E126F0005650A /* InitializerBootcamp.swift in Sources */,
 				2474FE832A8F5D12007D2886 /* TernaryBootcamp.swift in Sources */,
 				2406ED572A90B66100E11BA9 /* AlertBootcamp.swift in Sources */,
