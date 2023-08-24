@@ -2,6 +2,8 @@
 
 import SwiftUI
 
+@available(iOS, introduced: 13.0, deprecated: 15.0, message: "Use withAnimation or animation(_:value:) instead.")
+
 struct OnboardingView: View {
     
     // Onboarding states:
@@ -93,6 +95,8 @@ extension OnboardingView {
             .frame(maxWidth: .infinity)
             .background(Color.white)
             .cornerRadius(10)
+        // DEPRECATED
+//        @available(iOS, introduced: 13.0, deprecated: 15.0, message: "Use withAnimation or animation(_:value:) instead.")
             .animation(nil)
             .onTapGesture {
                 handleNextButtonPress()
